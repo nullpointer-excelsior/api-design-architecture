@@ -1,5 +1,5 @@
 
-# Mentoring 2 ninja dev 
+# Mentoring apps arquitecture 
 
 We learn how do design applications with the correct technology and high scalable architectures
 
